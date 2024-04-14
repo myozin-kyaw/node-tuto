@@ -1,0 +1,1 @@
+This file is created using writeFileSyncThis file is created using writeFileSync: Here is updated result
